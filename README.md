@@ -1,7 +1,7 @@
 # PORTFOLIO
 Some of my personal projects. Check them out!
 
-**Unmasking the Face: Emotion Detection using Machine Learning**                                   
+[**Unmasking the Face: Emotion Detection using Machine Learning**](https://github.com/mariagilr/PORTFOLIO/blob/master/Unmasking%20the%20face.ipynb)                                   
 Human beings are responsible for six basic emotions: happiness, anger, surprise, sadness, fear, and disgust. Creating a model that classifies these emotions can be extremely useful in areas like image processing, cybersecurity, robotics, psychology, etc. The objective of this project is to create models to categorize faces based on the emotion.
 
 **Prediction of Winter Wheat Yield Loss using Climatic Data**
