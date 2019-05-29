@@ -1,2 +1,11 @@
 # PORTFOLIO
-Data Science Portfolio
+Some of my personal projects. Check them out!
+
+**Unmasking the Face: Emotion Detection using Machine Learning**                                   
+Human beings are responsible for six basic emotions: happiness, anger, surprise, sadness, fear, and disgust. Creating a model that classifies these emotions can be extremely useful in areas like image processing, cybersecurity, robotics, psychology, etc. The objective of this project is to create models to categorize faces based on the emotion.
+
+**Prediction of Winter Wheat Yield Loss using Climatic Data**
+Can Data Science help Agriculture? In this project, I used and compared several supervised learning classifiers to predict, from climatic data,  wheat crop yield loss in France.
+
+**Soft Rock Singers Tweets**
+NLP project with scraped tweets from soft rock singers twitter accounts. I created features using both Bag of Words and TF-IDF and run through supervised and unsupervised models in order to study similarities between singers’ tweets and to predict the source of the tweet.
